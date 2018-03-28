@@ -1,10 +1,10 @@
 [submodule "linux-sgx"]
 	path = linux-sgx
-	url = https://github.com/adombeck/linux-sgx
+	url = https://github.com/elichai/linux-sgx
 [submodule "graphene"]
 	path = graphene
-	url = https://github.com/adombeck/graphene
+	url = https://github.com/elichai/graphene
 [submodule "linux-sgx-driver"]
 	path = linux-sgx-driver
-	url = https://github.com/adombeck/linux-sgx-driver
-	branch = master
+	url = https://github.com/elichai/linux-sgx-driver
+	branch = sgx2
